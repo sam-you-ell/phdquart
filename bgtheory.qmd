@@ -1,0 +1,3 @@
+# Background Theory
+
+Here we will run through the well-established theory that is needed to understand the core concepts of what we are trying to achieve. 

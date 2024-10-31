@@ -1,0 +1,3 @@
+# Core Theory
+
+Here we will outline core ideas around entanglement witnesses in a condensed matter perspective and present a general framework that can be experimentally applied. 

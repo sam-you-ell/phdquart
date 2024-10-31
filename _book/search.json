@@ -1,0 +1,168 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Entanglement Diagnostics in Solids",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Introduction to the concept and motivation.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "Parts/intro.html",
+    "href": "Parts/intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "Parts/bgtheory.html",
+    "href": "Parts/bgtheory.html",
+    "title": "Background Theory",
+    "section": "",
+    "text": "Here we will run through the well-established theory that is needed to understand the core concepts of what we are trying to achieve.",
+    "crumbs": [
+      "Background Theory"
+    ]
+  },
+  {
+    "objectID": "Parts/coretheo.html",
+    "href": "Parts/coretheo.html",
+    "title": "Core Theory",
+    "section": "",
+    "text": "Here we will outline core ideas around entanglement witnesses in a condensed matter perspective and present a general framework that can be experimentally applied.",
+    "crumbs": [
+      "Core Theory"
+    ]
+  },
+  {
+    "objectID": "Parts/methods.html",
+    "href": "Parts/methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "Core methods, such as tensor networks and possibly Kernal polynomial methods.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "condmat.html",
+    "href": "condmat.html",
+    "title": "Many-Body Theory",
+    "section": "",
+    "text": "Some basics of condensed matter and many body theory that is useful for beginners to the subject.",
+    "crumbs": [
+      "Many-Body Theory"
+    ]
+  },
+  {
+    "objectID": "secondquant.html",
+    "href": "secondquant.html",
+    "title": "2  Second Quantisation",
+    "section": "",
+    "text": "Basics of second quantization. Useful identities, results etc.",
+    "crumbs": [
+      "Many-Body Theory",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Second Quantisation</span>"
+    ]
+  },
+  {
+    "objectID": "metal.html",
+    "href": "metal.html",
+    "title": "3  Drude Metal",
+    "section": "",
+    "text": "The description of a general drude metal in the semi classical, quantum and many body perspectives.",
+    "crumbs": [
+      "Many-Body Theory",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Drude Metal</span>"
+    ]
+  },
+  {
+    "objectID": "bgtheory.html",
+    "href": "bgtheory.html",
+    "title": "Background Theory",
+    "section": "",
+    "text": "Here we will run through the well-established theory that is needed to understand the core concepts of what we are trying to achieve.",
+    "crumbs": [
+      "Background Theory"
+    ]
+  },
+  {
+    "objectID": "linresp.html",
+    "href": "linresp.html",
+    "title": "6  Linear Response Theory",
+    "section": "",
+    "text": "Basics of Linear response theory and relevant bits needed to connect the optical conductivity to the current operator. This should be taken from stephens notes.",
+    "crumbs": [
+      "Background Theory",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Linear Response Theory</span>"
+    ]
+  },
+  {
+    "objectID": "opticalcond.html",
+    "href": "opticalcond.html",
+    "title": "7  Optical Conductivity",
+    "section": "",
+    "text": "Basics of the optical conductivity and how to obtain from the current. Basic Kubo formulas go here also.",
+    "crumbs": [
+      "Background Theory",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Optical Conductivity</span>"
+    ]
+  },
+  {
+    "objectID": "entanglement.html",
+    "href": "entanglement.html",
+    "title": "8  Entanglement in Many-Body Theory",
+    "section": "",
+    "text": "Description of entanglement in fermionic systems. Mode/particle entanglement description.",
+    "crumbs": [
+      "Background Theory",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Entanglement in Many-Body Theory</span>"
+    ]
+  },
+  {
+    "objectID": "measures.html",
+    "href": "measures.html",
+    "title": "9  Entanglement Measures",
+    "section": "",
+    "text": "Known entanglement measures and their drawbacks.",
+    "crumbs": [
+      "Background Theory",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Entanglement Measures</span>"
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+# Methods
+
+Core methods, such as tensor networks and possibly Kernal polynomial methods. 

@@ -1,0 +1,3 @@
+# Hubbard Model 
+
+Theory of the Hubbard model and the mott transition.

@@ -1,0 +1,3 @@
+# Linear Response Theory
+
+Basics of Linear response theory and relevant bits needed to connect the optical conductivity to the current operator. This should be taken from stephens notes. 

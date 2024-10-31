@@ -1,0 +1,3 @@
+# Entanglement in Many-Body Theory
+
+Description of entanglement in fermionic systems. Mode/particle entanglement description.

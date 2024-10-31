@@ -1,0 +1,41 @@
+project:
+  type: book
+
+book:
+  title: "Entanglement Diagnostics in Solids"
+  author: "Samuel Hopkins"
+  date: "10/29/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd 
+    - part: condmat.qmd
+      chapters:
+      - secondquant.qmd
+      - metal.qmd
+      - bcs.qmd
+      - hubbard.qmd
+    - part: bgtheory.qmd
+      chapters:
+      - linresp.qmd
+      - opticalcond.qmd
+      - entanglement.qmd
+      - measures.qmd
+    - part: Parts/coretheo.qmd
+      chapters:
+      - qfi.qmd
+      - qvar.qmd
+    - part: Parts/methods.qmd
+      chapters:
+      - tennet.qmd
+    - summary.qmd
+    - references.qmd
+bibliography: references.bib
+
+format:
+  html:
+    theme: litera
+  pdf:
+    documentclass: scrreprt
+
+
+
