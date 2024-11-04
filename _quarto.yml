@@ -2,38 +2,50 @@ project:
   type: book
 
 book:
+
+  # navbar:
+  #   background: primary
+  #   search: true
+  #   left:
+  #     - text: "Home"
+  #       href: index.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    type: "dark"
   title: "Entanglement Diagnostics in Solids"
   author: "Samuel Hopkins"
   date: "10/29/2024"
   chapters:
     - index.qmd
-    - intro.qmd 
-    - part: condmat.qmd
+    - part: part/condmat/condmat.qmd
       chapters:
-      - secondquant.qmd
-      - metal.qmd
-      - bcs.qmd
-      - hubbard.qmd
-    - part: bgtheory.qmd
+      - part/condmat/secondquant.qmd
+      - part/condmat/metal.qmd
+      - part/condmat/bcs.qmd
+      - part/condmat/hubbard.qmd
+    - part: part/bgtheory/bgtheory.qmd
       chapters:
-      - linresp.qmd
-      - opticalcond.qmd
-      - entanglement.qmd
-      - measures.qmd
-    - part: Parts/coretheo.qmd
+      - part/bgtheory/linresp.qmd
+      - part/bgtheory/opticalcond.qmd
+      - part/bgtheory/entanglement.qmd
+      - part/bgtheory/measures.qmd
+    - part: part/coretheo/coretheo.qmd
       chapters:
-      - qfi.qmd
-      - qvar.qmd
-    - part: Parts/methods.qmd
+      - part/coretheo/qfi.qmd
+      - part/coretheo/qvar.qmd
+    - part: part//method/methods.qmd
       chapters:
-      - tennet.qmd
+      - part/method/tennet.qmd
     - summary.qmd
     - references.qmd
 bibliography: references.bib
 
 format:
   html:
-    theme: litera
+    theme: lumen
+    fontsize: 0.95em
+
   pdf:
     documentclass: scrreprt
 

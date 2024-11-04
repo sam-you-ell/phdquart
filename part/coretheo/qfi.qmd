@@ -1,0 +1,36 @@
+# Quantum Fisher Information
+
+Without full state tomography, entanglement measures prove infeasible in solid state experiments that involve a large collection of many-body correlations. An alternative approach is to utilise entanglement witnesses which bounds entanglement in a given many-body system. The key objective is to build a framework to utilise such witnesses, probing the entanglement structure in driven/undriven solids whilst being experimentally accessible. One such witness is the quantum Fisher information, which probes the entanglement depth. 
+
+The QFI originated in quantum phase estimation where it upper bounds the Fisher information (FI) and gives the quantum Cramer-Rao bound (QCR), 
+
+$$
+    (\Delta \Theta)^2 \geq \frac{1}{M F_Q[\rho ; \hat{A}]}.
+$$
+Here, $(\Delta \Theta)^2$ is the variance of a parameter, $\Theta$ to be estimated, $M$ is the number of independent measurements and  $F_Q[\hat{\rho} ; \hat{A}]$ is the QFI relative to some observable, $\hat{A}$. The QCR bounds the maximal precision for parameter estimation in a quantum system and also showcases the effect of a strongly entangled state on parameter estimation, i.e it breaks the classical limit (the convential CRLB). 
+
+For some mixed state, $ \rho$ and in relation to an observable $\hat{A}$, the QFI can be expressed as 
+$$
+    F_Q[\rho ; \hat{A}] = 2 \sum_{n, m} \frac{(P_n - P_m)^2}{P_n + P_m} |\langle n|\hat{A}|m\rangle |^2, 
+$$
+
+where $|n\rangle$, $|m\rangle$ are eigenstates of $\rho$ with eigenvalues $P_n, P_m$. The sum is restricted to $P_n + P_m >0$. For pure states, relabel the eigenstate $|0\rangle = |\psi\rangle$ and take $P_n = \delta_{n, 0}$, such that  $\rho = |\psi \rangle\langle \psi |$ . The QFI then simplifies to 
+
+$$
+    F_Q[|\psi\rangle; \hat{A}] = 4 \left(\langle \psi|\hat{A}^2|\psi\rangle - \langle \psi|\hat{A}|\psi\rangle ^2 \right)  = 4(\Delta \hat{A})^2.
+$$
+
+Work by \cite{Hauke_2016} showed that the QFI can be measured directly in a generic many-body system in a thermal state at any temperature, relating the QFI to the standard dynamical response (also known as a dynamical susceptibility), 
+$$
+    F_Q[\rho_{\beta}] = \frac{4}{\pi} \int_{0}^{\infty} d \omega \tanh\left(\frac{\omega}{2T}\right) \chi''(\omega, T).
+$$
+
+Here, we assume that the density operator, $\rho_{\beta}$ describes that of a thermal state at temperature, $T$, with $\chi''(\omega, T)$ as the imaginary part of the standard response function,
+$$
+    \chi_{BA}(\omega) =  \lim_{\eta \to 0^+}i\int_{0}^{\infty} d\tau e^{i(\omega + i \eta)} \text{tr} \left( \rho_{\beta} [\hat{B}(\tau), \hat{A}]\right), 
+$$
+where we have an extra term in the fourier transform ($i \eta$) to ensure convergence. 
+*Possibly add proof from notes*
+
+It's relation to the dynamical susceptibility highlights it's importance as a tool to study the entanglement structure of quantum matter,  as it is an experimentally accessible quantity via well-known spectroscopic techniques (Bragg spectroscopy and inelastic neutron scattering as two examples). This bypasses the need for full-state tomography, a key downside to standard entanglement measures like the von Neumann and Renyi entropies. 
+

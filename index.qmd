@@ -1,5 +1,12 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+**Project Title:** Diagnosing entanglement in many-body systems through experimentally accessible entanglement witnesses.
+
+## Background to entanglement witnesses
+
+Direct entanglement measurement proves to be a largely unfeasible task in many-body systems due to the number of constituent particles. Entanglement measures such the von Neumann or Renyi(\*) entropies rely on a non-linear function of the reduced density matrix, $\rho_\text{A}$, and as such is not a conventional observable that can be experimentally measured without full-state tomography or interometric approaches. Such directions are not appropriate for the study of multi-partite entanglement in solids.
+
+An alternative, more practical approach instead uses _entanglement witnesses_ to bound the entanglement within a given system using experimentally accessible quantities such as dynamic susceptibilities.
+One particular witness, the Quantum Fisher Information (QFI) will take focus in this project, calculated from the linear response in electronic systems to build a framework of entanglement diagnostics in solids.
+

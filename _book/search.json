@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Entanglement Diagnostics in Solids",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nProject Title: Diagnosing entanglement in many-body systems through experimentally accessible entanglement witnesses.",
     "crumbs": [
       "Preface"
     ]
@@ -22,11 +22,11 @@
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "12  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
@@ -163,6 +163,155 @@
     "crumbs": [
       "Background Theory",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Entanglement Measures</span>"
+    ]
+  },
+  {
+    "objectID": "part/condmat/condmat.html",
+    "href": "part/condmat/condmat.html",
+    "title": "Many-Body Theory",
+    "section": "",
+    "text": "Some basics of condensed matter and many body theory that is useful for beginners to the subject.",
+    "crumbs": [
+      "Many-Body Theory"
+    ]
+  },
+  {
+    "objectID": "part/condmat/secondquant.html",
+    "href": "part/condmat/secondquant.html",
+    "title": "1  Second Quantisation",
+    "section": "",
+    "text": "Basics of second quantization. Useful identities, results etc.",
+    "crumbs": [
+      "Many-Body Theory",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Second Quantisation</span>"
+    ]
+  },
+  {
+    "objectID": "part/condmat/metal.html",
+    "href": "part/condmat/metal.html",
+    "title": "2  Drude Metal",
+    "section": "",
+    "text": "The description of a general drude metal in the semi classical, quantum and many body perspectives.",
+    "crumbs": [
+      "Many-Body Theory",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Drude Metal</span>"
+    ]
+  },
+  {
+    "objectID": "part/condmat/bcs.html",
+    "href": "part/condmat/bcs.html",
+    "title": "3  BCS Superconductor",
+    "section": "",
+    "text": "Theory of the BCS superconductor and useful results.",
+    "crumbs": [
+      "Many-Body Theory",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>BCS Superconductor</span>"
+    ]
+  },
+  {
+    "objectID": "part/condmat/hubbard.html",
+    "href": "part/condmat/hubbard.html",
+    "title": "4  Hubbard Model",
+    "section": "",
+    "text": "Theory of the Hubbard model and the mott transition.",
+    "crumbs": [
+      "Many-Body Theory",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Hubbard Model</span>"
+    ]
+  },
+  {
+    "objectID": "part/bgtheory/bgtheory.html",
+    "href": "part/bgtheory/bgtheory.html",
+    "title": "Background Theory",
+    "section": "",
+    "text": "Here we will run through the well-established theory that is needed to understand the core concepts of what we are trying to achieve.",
+    "crumbs": [
+      "Background Theory"
+    ]
+  },
+  {
+    "objectID": "part/bgtheory/linresp.html",
+    "href": "part/bgtheory/linresp.html",
+    "title": "5  Linear Response Theory",
+    "section": "",
+    "text": "Basics of Linear response theory and relevant bits needed to connect the optical conductivity to the current operator. This should be taken from stephens notes.",
+    "crumbs": [
+      "Background Theory",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Linear Response Theory</span>"
+    ]
+  },
+  {
+    "objectID": "part/bgtheory/opticalcond.html",
+    "href": "part/bgtheory/opticalcond.html",
+    "title": "6  Optical Conductivity",
+    "section": "",
+    "text": "Basics of the optical conductivity and how to obtain from the current. Basic Kubo formulas go here also.",
+    "crumbs": [
+      "Background Theory",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Optical Conductivity</span>"
+    ]
+  },
+  {
+    "objectID": "part/bgtheory/entanglement.html",
+    "href": "part/bgtheory/entanglement.html",
+    "title": "7  Entanglement in Many-Body Theory",
+    "section": "",
+    "text": "Description of entanglement in fermionic systems. Mode/particle entanglement description.",
+    "crumbs": [
+      "Background Theory",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Entanglement in Many-Body Theory</span>"
+    ]
+  },
+  {
+    "objectID": "part/bgtheory/measures.html",
+    "href": "part/bgtheory/measures.html",
+    "title": "8  Entanglement Measures",
+    "section": "",
+    "text": "Known entanglement measures and their drawbacks.",
+    "crumbs": [
+      "Background Theory",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Entanglement Measures</span>"
+    ]
+  },
+  {
+    "objectID": "part/coretheo/coretheo.html",
+    "href": "part/coretheo/coretheo.html",
+    "title": "Core Theory",
+    "section": "",
+    "text": "Here we will outline core ideas around entanglement witnesses in a condensed matter perspective and present a general framework that can be experimentally applied.",
+    "crumbs": [
+      "Core Theory"
+    ]
+  },
+  {
+    "objectID": "part/method/methods.html",
+    "href": "part/method/methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "Core methods, such as tensor networks and possibly Kernal polynomial methods.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "index.html#background-to-entanglement-witnesses",
+    "href": "index.html#background-to-entanglement-witnesses",
+    "title": "Entanglement Diagnostics in Solids",
+    "section": "Background to entanglement witnesses",
+    "text": "Background to entanglement witnesses\nDirect entanglement measurement proves to be a largely unfeasible task in many-body systems due to the number of constituent particles. Entanglement measures such the von Neumann or Renyi(*) entropies rely on a non-linear function of the reduced density matrix, \\(\\rho_\\text{A}\\), and as such is not a conventional observable that can be experimentally measured without full-state tomography or interometric approaches. Such directions are not appropriate for the study of multi-partite entanglement in solids.\nAn alternative, more practical approach instead uses entanglement witnesses to bound the entanglement within a given system using experimentally accessible quantities such as dynamic susceptibilities. One particular witness, the Quantum Fisher Information (QFI) will take focus in this project, calculated from the linear response in electronic systems to build a framework of entanglement diagnostics in solids.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "part/coretheo/qfi.html",
+    "href": "part/coretheo/qfi.html",
+    "title": "9  Quantum Fisher Information",
+    "section": "",
+    "text": "Without full state tomography, entanglement measures prove infeasible in solid state experiments that involve a large collection of many-body correlations. An alternative approach is to utilise entanglement witnesses which bounds entanglement in a given many-body system. The key objective is to build a framework to utilise such witnesses, probing the entanglement structure in driven/undriven solids whilst being experimentally accessible. One such witness is the quantum Fisher information, which probes the entanglement depth.\nThe QFI originated in quantum phase estimation where it upper bounds the Fisher information (FI) and gives the quantum Cramer-Rao bound (QCR),\n\\[\n    (\\Delta \\Theta)^2 \\geq \\frac{1}{M F_Q[\\rho ; \\hat{A}]}.\n\\] Here, \\((\\Delta \\Theta)^2\\) is the variance of a parameter, \\(\\Theta\\) to be estimated, \\(M\\) is the number of independent measurements and \\(F_Q[\\hat{\\rho} ; \\hat{A}]\\) is the QFI relative to some observable, \\(\\hat{A}\\). The QCR bounds the maximal precision for parameter estimation in a quantum system and also showcases the effect of a strongly entangled state on parameter estimation, i.e it breaks the classical limit (the convential CRLB).\nFor some mixed state, $ $ and in relation to an observable \\(\\hat{A}\\), the QFI can be expressed as \\[\n    F_Q[\\rho ; \\hat{A}] = 2 \\sum_{n, m} \\frac{(P_n - P_m)^2}{P_n + P_m} |\\langle n|\\hat{A}|m\\rangle |^2,\n\\]\nwhere \\(|n\\rangle\\), \\(|m\\rangle\\) are eigenstates of \\(\\rho\\) with eigenvalues \\(P_n, P_m\\). The sum is restricted to \\(P_n + P_m &gt;0\\). For pure states, relabel the eigenstate \\(|0\\rangle = |\\psi\\rangle\\) and take \\(P_n = \\delta_{n, 0}\\), such that \\(\\rho = |\\psi \\rangle\\langle \\psi |\\) . The QFI then simplifies to\n\\[\n    F_Q[|\\psi\\rangle; \\hat{A}] = 4 \\left(\\langle \\psi|\\hat{A}^2|\\psi\\rangle - \\langle \\psi|\\hat{A}|\\psi\\rangle ^2 \\right)  = 4(\\Delta \\hat{A})^2.\n\\]\nWork by showed that the QFI can be measured directly in a generic many-body system in a thermal state at any temperature, relating the QFI to the standard dynamical response (also known as a dynamical susceptibility), \\[\n    F_Q[\\rho_{\\beta}] = \\frac{4}{\\pi} \\int_{0}^{\\infty} d \\omega \\tanh\\left(\\frac{\\omega}{2T}\\right) \\chi''(\\omega, T).\n\\]\nHere, we assume that the density operator, \\(\\rho_{\\beta}\\) describes that of a thermal state at temperature, \\(T\\), with \\(\\chi''(\\omega, T)\\) as the imaginary part of the standard response function, \\[\n    \\chi_{BA}(\\omega) =  \\lim_{\\eta \\to 0^+}i\\int_{0}^{\\infty} d\\tau e^{i(\\omega + i \\eta)} \\text{tr} \\left( \\rho_{\\beta} [\\hat{B}(\\tau), \\hat{A}]\\right),\n\\] where we have an extra term in the fourier transform (\\(i \\eta\\)) to ensure convergence. Possibly add proof from notes\nIt’s relation to the dynamical susceptibility highlights it’s importance as a tool to study the entanglement structure of quantum matter, as it is an experimentally accessible quantity via well-known spectroscopic techniques (Bragg spectroscopy and inelastic neutron scattering as two examples). This bypasses the need for full-state tomography, a key downside to standard entanglement measures like the von Neumann and Renyi entropies.",
+    "crumbs": [
+      "Core Theory",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Quantum Fisher Information</span>"
     ]
   }
 ]
